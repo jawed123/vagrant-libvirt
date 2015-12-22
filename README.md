@@ -46,6 +46,7 @@ missing development libraries for libxslt, libxml2 and libvirt.
 
 In Ubuntu, Debian, ...
 ```
+$ sudo apt-get install ruby
 $ sudo apt-get install libxslt-dev libxml2-dev libvirt-dev zlib1g-dev
 ```
 
