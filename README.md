@@ -36,7 +36,7 @@ Next, you must have [Vagrant installed](http://docs.vagrantup.com/v2/installatio
  Now you're ready to install vagrant-libvirt using standard [Vagrant plugin](http://docs.vagrantup.com/v2/plugins/usage.html) installation methods.
 
 ```
-$ vagrant plugin install vagrant-libvirt
+$ sudo vagrant plugin install vagrant-libvirt
 ```
 
 ### Possible problems with plugin installation on Linux
